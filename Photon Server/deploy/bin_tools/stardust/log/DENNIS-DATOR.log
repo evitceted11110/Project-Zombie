@@ -1,0 +1,19 @@
+2014-07-20 10:14:23,830 [1] INFO  Photon.StarDust.Client.Program - Starting 5 games with 3 players
+2014-07-20 10:14:24,851 [5] DEBUG Photon.StarDust.Client.Program - peers: 1, r-ev: 1.17804, ur-ev: 0, r-op: 7.068235, ur-op: 0, res: 1.178035, r-rtt: 0, ur-rtt: 0, rtt: 0, var: 0, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2014-07-20 10:14:25,861 [4] DEBUG Photon.StarDust.Client.Program - peers: 3, r-ev: 21.75613, ur-ev: 0, r-op: 17.80047, ur-op: 0, res: 1.977831, r-rtt: 29.94118, ur-rtt: 0, rtt: 0, var: 0, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2014-07-20 10:14:26,458 [7] INFO  Photon.StarDust.Client.Program - [6604] Started game DENNIS-DATOR(6604)1 with 3 clients
+2014-07-20 10:14:26,874 [12] DEBUG Photon.StarDust.Client.Program - peers: 4, r-ev: 55.27421, ur-ev: 0, r-op: 31.58525, ur-op: 0, res: 0.9870389, r-rtt: 29.96364, ur-rtt: 0, rtt: 0, var: 0, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2014-07-20 10:14:27,889 [12] DEBUG Photon.StarDust.Client.Program - peers: 5, r-ev: 63.05957, ur-ev: 0, r-op: 39.41225, ur-op: 0, res: 0.9853061, r-rtt: 31.87097, ur-rtt: 0, rtt: 0, var: 0, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2014-07-20 10:14:28,903 [10] DEBUG Photon.StarDust.Client.Program - peers: 6, r-ev: 85.78164, ur-ev: 0, r-op: 51.27178, ur-op: 0, res: 0.9859958, r-rtt: 31.47619, ur-rtt: 0, rtt: 0, var: 0, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2014-07-20 10:14:29,917 [6] DEBUG Photon.StarDust.Client.Program - peers: 6, r-ev: 108.4861, ur-ev: 0, r-op: 55.22925, ur-op: 0, res: 0, r-rtt: 32.15315, ur-rtt: 0, rtt: 0, var: 0, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2014-07-20 10:14:30,019 [7] INFO  Photon.StarDust.Client.Program - [6604] Started game DENNIS-DATOR(6604)2 with 3 clients
+2014-07-20 10:14:30,931 [5] DEBUG Photon.StarDust.Client.Program - peers: 7, r-ev: 115.3647, ur-ev: 0, r-op: 62.11943, ur-op: 0, res: 0.9860227, r-rtt: 29.28696, ur-rtt: 0, rtt: 0, var: 0, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2014-07-20 10:14:31,945 [10] DEBUG Photon.StarDust.Client.Program - peers: 8, r-ev: 121.3196, ur-ev: 0, r-op: 72.98906, ur-op: 0, res: 0.9863391, r-rtt: 30.97521, ur-rtt: 0, rtt: 0, var: 0, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2014-07-20 10:14:32,836 [7] INFO  Photon.StarDust.Client.Program - [6604] Started game DENNIS-DATOR(6604)3 with 3 clients
+2014-07-20 10:14:32,959 [6] DEBUG Photon.StarDust.Client.Program - peers: 10, r-ev: 157.7677, ur-ev: 0, r-op: 80.85593, ur-op: 0, res: 1.972095, r-rtt: 31.23077, ur-rtt: 0, rtt: 0, var: 0, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2014-07-20 10:14:33,972 [5] DEBUG Photon.StarDust.Client.Program - peers: 11, r-ev: 167.8323, ur-ev: 0, r-op: 90.8269, ur-op: 0, res: 0.987249, r-rtt: 30.35714, ur-rtt: 0, rtt: 0, var: 0, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2014-07-20 10:14:34,400 [1] INFO  Photon.StarDust.Client.Program - [6604] Shutdown: Stopped game DENNIS-DATOR(6604)1
+2014-07-20 10:14:34,402 [1] INFO  Photon.StarDust.Client.Program - [6604] Shutdown: Stopped game DENNIS-DATOR(6604)2
+2014-07-20 10:14:34,402 [1] INFO  Photon.StarDust.Client.Program - [6604] Shutdown: Stopped game DENNIS-DATOR(6604)3
+2014-07-20 10:14:34,403 [1] INFO  Photon.StarDust.Client.Program - [6604] Shutdown: Stopped game DENNIS-DATOR(6604)4
+2014-07-20 10:14:34,406 [1] INFO  Photon.StarDust.Client.Program - [6604] Stopped

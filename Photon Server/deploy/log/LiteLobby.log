@@ -1,0 +1,4 @@
+2014-07-20 10:14:01,582 [1] INFO  Lite.LiteApplication [(null)] - Created application Instance: type=LiteLobby.LiteLobbyApplication
+2014-07-20 10:14:01,675 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=LiteLobby; AppPath=C:\Users\Dennis\Documents\GitHub\Project-Zombie\Photon Server\deploy\LiteLobby, Type=LiteLobby.LiteLobbyApplication 
+2014-07-20 10:14:01,709 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2014-07-20 21:12:56,028 [30] WARN  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher stopped working because of a network loss

@@ -1,0 +1,4 @@
+2014-07-20 10:14:00,854 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2014-07-20 10:14:00,915 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=CounterPublisher; AppPath=C:\Users\Dennis\Documents\GitHub\Project-Zombie\Photon Server\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2014-07-20 10:14:00,917 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher started on: 255.255.255.255:40001
+2014-07-20 21:12:56,098 [31] WARN  Photon.SocketServer.Diagnostics.CounterPublisher [(null)] - CounterPublisher stopped working because of a network loss

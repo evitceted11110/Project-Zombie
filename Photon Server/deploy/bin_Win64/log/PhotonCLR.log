@@ -1,0 +1,75 @@
+2014-07-20 10:13:41,553 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Initialize: ApplicationName = 'DefaultDomain', DomainID = '1'
+2014-07-20 10:13:41,610 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AppDomains with unhandled exceptions are usually not unloaded and restarted.
+2014-07-20 10:13:41,637 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Getting license information:
+2014-07-20 10:13:49,422 [ 1] INFO  PhotonHostRuntime.PhotonLicensing - LICENSE: No license file was found - starting with Bootstrap License.
+2014-07-20 10:13:49,423 [ 1] INFO  PhotonHostRuntime.PhotonLicensing - LICENSE: Expiration: never; floating license: no; max connections: 20; valid IPs: any
+2014-07-20 10:13:51,517 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'Lite' , assemblyName = 'Lite'
+2014-07-20 10:13:51,519 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'C:\Users\Dennis\Documents\GitHub\Project-Zombie\Photon Server\deploy'
+2014-07-20 10:13:51,519 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'C:\Users\Dennis\Documents\GitHub\Project-Zombie\Photon Server\deploy\Lite\bin;bin_Win64;Shared;'
+2014-07-20 10:13:51,520 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = 'C:\Users\Dennis\Documents\GitHub\Project-Zombie\Photon Server\deploy\Lite\bin\Lite.dll.config'
+2014-07-20 10:13:51,520 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'C:\Users\Dennis\Documents\GitHub\Project-Zombie\Photon Server\deploy\Lite\bin\Cache'
+2014-07-20 10:13:52,108 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'C:\Users\Dennis\Documents\GitHub\Project-Zombie\Photon Server\deploy\Lite'
+2014-07-20 10:13:52,109 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'C:\Users\Dennis\Documents\GitHub\Project-Zombie\Photon Server\deploy\Lite\bin'
+2014-07-20 10:13:52,110 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'C:\Users\Dennis\Documents\GitHub\Project-Zombie\Photon Server\deploy'
+2014-07-20 10:13:52,111 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'C:\Users\Dennis\Documents\GitHub\Project-Zombie\Photon Server\deploy\bin_Win64\log'
+2014-07-20 10:13:52,153 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Lite, Version=3.4.22.6309, Culture=neutral, PublicKeyToken=null from file:///C:/Users/Dennis/Documents/GitHub/Project-Zombie/Photon Server/deploy/Lite/bin/Lite.DLL
+2014-07-20 10:13:52,155 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:3.4.22.6309
+2014-07-20 10:13:52,224 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=3.4.22.6309, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///C:/Users/Dennis/Documents/GitHub/Project-Zombie/Photon Server/deploy/Lite/bin/Photon.SocketServer.DLL
+2014-07-20 10:13:52,287 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.1.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///C:/Users/Dennis/Documents/GitHub/Project-Zombie/Photon Server/deploy/Lite/bin/ExitGamesLibs.DLL
+2014-07-20 10:13:52,422 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 from file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System.Core/v4.0_4.0.0.0__b77a5c561934e089/System.Core.dll
+2014-07-20 10:13:52,518 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'Lite', assemblyName = 'Lite', typeName = 'Lite.LiteApplication'
+2014-07-20 10:13:52,521 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'LiteLobby' , assemblyName = 'LiteLobby'
+2014-07-20 10:13:52,525 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'C:\Users\Dennis\Documents\GitHub\Project-Zombie\Photon Server\deploy'
+2014-07-20 10:13:52,526 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'C:\Users\Dennis\Documents\GitHub\Project-Zombie\Photon Server\deploy\LiteLobby\bin;bin_Win64;Shared;'
+2014-07-20 10:13:52,528 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = 'C:\Users\Dennis\Documents\GitHub\Project-Zombie\Photon Server\deploy\LiteLobby\bin\LiteLobby.dll.config'
+2014-07-20 10:13:52,528 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'C:\Users\Dennis\Documents\GitHub\Project-Zombie\Photon Server\deploy\LiteLobby\bin\Cache'
+2014-07-20 10:13:52,792 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'C:\Users\Dennis\Documents\GitHub\Project-Zombie\Photon Server\deploy\LiteLobby'
+2014-07-20 10:13:52,792 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'C:\Users\Dennis\Documents\GitHub\Project-Zombie\Photon Server\deploy\LiteLobby\bin'
+2014-07-20 10:13:52,793 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'C:\Users\Dennis\Documents\GitHub\Project-Zombie\Photon Server\deploy'
+2014-07-20 10:13:52,794 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'C:\Users\Dennis\Documents\GitHub\Project-Zombie\Photon Server\deploy\bin_Win64\log'
+2014-07-20 10:13:52,817 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: LiteLobby, Version=3.4.22.6309, Culture=neutral, PublicKeyToken=null from file:///C:/Users/Dennis/Documents/GitHub/Project-Zombie/Photon Server/deploy/LiteLobby/bin/LiteLobby.DLL
+2014-07-20 10:13:52,819 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:3.4.22.6309
+2014-07-20 10:13:52,846 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Lite, Version=3.4.22.6309, Culture=neutral, PublicKeyToken=null from file:///C:/Users/Dennis/Documents/GitHub/Project-Zombie/Photon Server/deploy/LiteLobby/bin/Lite.DLL
+2014-07-20 10:13:52,896 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=3.4.22.6309, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///C:/Users/Dennis/Documents/GitHub/Project-Zombie/Photon Server/deploy/LiteLobby/bin/Photon.SocketServer.DLL
+2014-07-20 10:13:52,957 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.1.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///C:/Users/Dennis/Documents/GitHub/Project-Zombie/Photon Server/deploy/LiteLobby/bin/ExitGamesLibs.DLL
+2014-07-20 10:13:52,970 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 from file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System.Core/v4.0_4.0.0.0__b77a5c561934e089/System.Core.dll
+2014-07-20 10:13:52,977 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'LiteLobby', assemblyName = 'LiteLobby', typeName = 'LiteLobby.LiteLobbyApplication'
+2014-07-20 10:13:52,978 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'MmoDemo' , assemblyName = 'Photon.MmoDemo.Server'
+2014-07-20 10:13:52,979 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'C:\Users\Dennis\Documents\GitHub\Project-Zombie\Photon Server\deploy'
+2014-07-20 10:13:52,979 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'C:\Users\Dennis\Documents\GitHub\Project-Zombie\Photon Server\deploy\MmoDemo\bin;bin_Win64;Shared;'
+2014-07-20 10:13:52,979 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = ''
+2014-07-20 10:13:52,980 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'C:\Users\Dennis\Documents\GitHub\Project-Zombie\Photon Server\deploy\MmoDemo\bin\Cache'
+2014-07-20 10:13:53,236 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'C:\Users\Dennis\Documents\GitHub\Project-Zombie\Photon Server\deploy\MmoDemo'
+2014-07-20 10:13:53,236 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'C:\Users\Dennis\Documents\GitHub\Project-Zombie\Photon Server\deploy\MmoDemo\bin'
+2014-07-20 10:13:53,237 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'C:\Users\Dennis\Documents\GitHub\Project-Zombie\Photon Server\deploy'
+2014-07-20 10:13:53,238 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'C:\Users\Dennis\Documents\GitHub\Project-Zombie\Photon Server\deploy\bin_Win64\log'
+2014-07-20 10:13:53,298 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.MmoDemo.Server, Version=3.4.22.6309, Culture=neutral, PublicKeyToken=null from file:///C:/Users/Dennis/Documents/GitHub/Project-Zombie/Photon Server/deploy/MmoDemo/bin/Photon.MmoDemo.Server.DLL
+2014-07-20 10:13:53,302 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:3.4.22.6309
+2014-07-20 10:13:53,331 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=3.4.22.6309, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///C:/Users/Dennis/Documents/GitHub/Project-Zombie/Photon Server/deploy/MmoDemo/bin/Photon.SocketServer.DLL
+2014-07-20 10:13:53,394 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.1.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///C:/Users/Dennis/Documents/GitHub/Project-Zombie/Photon Server/deploy/MmoDemo/bin/ExitGamesLibs.DLL
+2014-07-20 10:13:53,410 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 from file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System.Core/v4.0_4.0.0.0__b77a5c561934e089/System.Core.dll
+2014-07-20 10:13:53,420 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'MmoDemo', assemblyName = 'Photon.MmoDemo.Server', typeName = 'Photon.MmoDemo.Server.PhotonApplication'
+2014-07-20 10:13:53,422 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'CounterPublisher' , assemblyName = 'CounterPublisher'
+2014-07-20 10:13:53,423 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'C:\Users\Dennis\Documents\GitHub\Project-Zombie\Photon Server\deploy'
+2014-07-20 10:13:53,423 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'C:\Users\Dennis\Documents\GitHub\Project-Zombie\Photon Server\deploy\CounterPublisher\bin;bin_Win64;Shared;'
+2014-07-20 10:13:53,423 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = 'C:\Users\Dennis\Documents\GitHub\Project-Zombie\Photon Server\deploy\CounterPublisher\bin\CounterPublisher.dll.config'
+2014-07-20 10:13:53,423 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'C:\Users\Dennis\Documents\GitHub\Project-Zombie\Photon Server\deploy\CounterPublisher\bin\Cache'
+2014-07-20 10:13:53,688 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'C:\Users\Dennis\Documents\GitHub\Project-Zombie\Photon Server\deploy\CounterPublisher'
+2014-07-20 10:13:53,689 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'C:\Users\Dennis\Documents\GitHub\Project-Zombie\Photon Server\deploy\CounterPublisher\bin'
+2014-07-20 10:13:53,690 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'C:\Users\Dennis\Documents\GitHub\Project-Zombie\Photon Server\deploy'
+2014-07-20 10:13:53,691 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'C:\Users\Dennis\Documents\GitHub\Project-Zombie\Photon Server\deploy\bin_Win64\log'
+2014-07-20 10:13:53,735 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: CounterPublisher, Version=3.4.22.6309, Culture=neutral, PublicKeyToken=null from file:///C:/Users/Dennis/Documents/GitHub/Project-Zombie/Photon Server/deploy/CounterPublisher/bin/CounterPublisher.DLL
+2014-07-20 10:13:53,738 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:3.4.22.6309
+2014-07-20 10:13:53,797 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=3.4.22.6309, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///C:/Users/Dennis/Documents/GitHub/Project-Zombie/Photon Server/deploy/CounterPublisher/bin/Photon.SocketServer.DLL
+2014-07-20 10:13:53,845 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.1.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///C:/Users/Dennis/Documents/GitHub/Project-Zombie/Photon Server/deploy/CounterPublisher/bin/ExitGamesLibs.DLL
+2014-07-20 10:13:53,860 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 from file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System.Core/v4.0_4.0.0.0__b77a5c561934e089/System.Core.dll
+2014-07-20 10:13:53,866 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'CounterPublisher', assemblyName = 'CounterPublisher', typeName = 'Photon.CounterPublisher.Application'
+2014-07-20 10:13:53,905 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'CounterPublisher', DomainId='5' -- calling Application.Setup
+2014-07-20 10:13:53,931 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGames.Logging.Log4Net, Version=1.0.1.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///C:/Users/Dennis/Documents/GitHub/Project-Zombie/Photon Server/deploy/CounterPublisher/bin/ExitGames.Logging.Log4Net.DLL
+2014-07-20 10:14:00,921 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'Lite', DomainId='2' -- calling Application.Setup
+2014-07-20 10:14:00,946 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGames.Logging.Log4Net, Version=1.0.1.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///C:/Users/Dennis/Documents/GitHub/Project-Zombie/Photon Server/deploy/Lite/bin/ExitGames.Logging.Log4Net.DLL
+2014-07-20 10:14:01,333 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'LiteLobby', DomainId='3' -- calling Application.Setup
+2014-07-20 10:14:01,345 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGames.Logging.Log4Net, Version=1.0.1.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///C:/Users/Dennis/Documents/GitHub/Project-Zombie/Photon Server/deploy/LiteLobby/bin/ExitGames.Logging.Log4Net.DLL
+2014-07-20 10:14:01,712 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'MmoDemo', DomainId='4' -- calling Application.Setup
+2014-07-20 10:14:01,725 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGames.Logging.Log4Net, Version=1.0.1.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///C:/Users/Dennis/Documents/GitHub/Project-Zombie/Photon Server/deploy/MmoDemo/bin/ExitGames.Logging.Log4Net.DLL
+2014-07-20 10:14:02,718 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'DefaultDomain', DomainId='1'
